@@ -40,7 +40,7 @@ async function mint() {
     const result = await server.submitTransaction(tx2);
     console.log(`✅ ${TOTAL_SUPPLY} ${TOKEN_CODE} minted to Distributor!`);
     console.log("Tx Hash:", result.hash);
-    console.log("Check:", `https://pi-blockchain.net/testnet/account/${distributor.publicKey()}`);
+    console.log("Check:", `https://blockexplorer.minepi.com/testnet/account/${distributor.publicKey()}`);
 
   } catch (e) {
     console.error("❌ Error:", e.response?.data?.extras?.result_codes || e);
