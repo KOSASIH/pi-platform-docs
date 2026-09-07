@@ -13,7 +13,7 @@ Example token: `$EXAMPLE`
 1.  **Node.js v18+** installed
 2.  **2 Pi Testnet Wallets**: 1 for Issuer, 1 for Distributor
     Get them from: https://wallet.pinet.com
-3.  **Testnet Pi** in both wallets for fees. Claim at: https://pi-blockchain.net
+3.  **Testnet Pi** in both wallets for fees. Claim at: https://blockexplorer.minepi.com
 4.  **Install Dependencies**
     ```bash
     npm init -y
