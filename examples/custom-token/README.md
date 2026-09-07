@@ -64,7 +64,7 @@ node mint-token.js
 ```
 Result: `$EXAMPLE` token will now be in the Distributor wallet and can be transferred.
 
-Check on Block Explorer: `https://pi-blockchain.net/testnet/assets?code=EXAMPLE`
+Check on Block Explorer: `https://blockexplorer.minepi.com/testnet/assets?code=EXAMPLE`
 
 ---
 
